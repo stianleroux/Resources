@@ -10,3 +10,5 @@ Architecture
 
 Clean Architecture .Net Core
 https://www.youtube.com/watch?v=Zygw4UAxCdg&t=2119s
+https://github.com/ardalis/CleanArchitecture
+
